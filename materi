@@ -1,0 +1,86 @@
+basic oop
+	struct
+	class
+	template
+enum
+vector
+pointer
+serialization
+
+
+
+
+mid term kisi kiss yu
+v	existing user registration
+v	serialization info          
+v		serialization account 
+v		serialization id increment
+v		serialization list account each account
+vvvvv
+
+
+
+v	contact
+v		must be registered account
+v		duplicate number on add contact
+v		search existing user with name,phone,number
+
+
+
+xx delete user
+xx id contact
+	
+	
+	
+	
+	
+	
+	
+	
+	========================================================
+	
+22 serialization::archive 18 0 0 2 0 0 0 | 5 risal 3 081 0 100 0 0 | 4 lola 2 08 0 101 0 0
+
+str 5 huruf = risal
+str 3 angka =  081
+0 login state
+100 id
+0 0 vector contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+serialization= save
+deserialization= load
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+seeria
+
+
